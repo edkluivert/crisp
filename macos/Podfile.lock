@@ -1,0 +1,52 @@
+PODS:
+  - ffmpeg_kit_flutter_new_min (8.1.2):
+    - ffmpeg_kit_flutter_new_min/min (= 8.1.2)
+    - FlutterMacOS
+  - ffmpeg_kit_flutter_new_min/min (8.1.2):
+    - FlutterMacOS
+  - file_picker_darwin (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - gal (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - share_plus (0.0.1):
+    - FlutterMacOS
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - ffmpeg_kit_flutter_new_min (from `Flutter/ephemeral/.symlinks/plugins/ffmpeg_kit_flutter_new_min/macos`)
+  - file_picker_darwin (from `Flutter/ephemeral/.symlinks/plugins/file_picker_darwin/darwin`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - gal (from `Flutter/ephemeral/.symlinks/plugins/gal/darwin`)
+  - share_plus (from `Flutter/ephemeral/.symlinks/plugins/share_plus/macos`)
+  - video_player_avfoundation (from `Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin`)
+
+EXTERNAL SOURCES:
+  ffmpeg_kit_flutter_new_min:
+    :path: Flutter/ephemeral/.symlinks/plugins/ffmpeg_kit_flutter_new_min/macos
+  file_picker_darwin:
+    :path: Flutter/ephemeral/.symlinks/plugins/file_picker_darwin/darwin
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  gal:
+    :path: Flutter/ephemeral/.symlinks/plugins/gal/darwin
+  share_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/share_plus/macos
+  video_player_avfoundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin
+
+SPEC CHECKSUMS:
+  ffmpeg_kit_flutter_new_min: 7e9c9dc31166e86918a66eb7fad2ed735ae837cb
+  file_picker_darwin: 49d73317e75d1828d33a2a50338c6caebd6e24ff
+  FlutterMacOS: d0db08ddef1a9af05a5ec4b724367152bb0500b1
+  gal: 6a522c75909f1244732d4596d11d6a2f86ff37a5
+  share_plus: 1fa619de8392a4398bfaf176d441853922614e89
+  video_player_avfoundation: e54d03b3b19f64f2c557354f72ce538387541ba6
+
+PODFILE CHECKSUM: 346bfb2deb41d4a6ebd6f6799f92188bde2d246f
+
+COCOAPODS: 1.16.2
